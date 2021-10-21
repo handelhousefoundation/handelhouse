@@ -1,0 +1,10 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-center image-position-center onscroll-image-fade-in"
+id: "contact"
+title : "Contact"
+content: |
+  info@handelhouseamerica.org
+button:
+  label: "Back to the top"
+  link: "#"
+image: "images/handelhouse-marker.jpeg"

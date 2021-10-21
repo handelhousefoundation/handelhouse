@@ -1,0 +1,16 @@
+####################### Banner #########################
+style: "style1 orient-right content-align-right image-position-left fullscreen onload-image-fade-in onload-content-fade-right"
+title : "Handel House Foundation of America"
+subtitle: |
+  501(c)3
+content : |
+  This is a <strong>Banner</strong> element, and it's generally used as an introduction or opening statement. You can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-banner">details</a>).
+button:
+  label : "Learn More"
+  link : "#learn-more"
+  label2: "Donate"
+  link2: "#donate"
+  label3: "Contact"
+  link3: "#contact"
+image : "images/handelhouse-high-res.jpeg"
+
