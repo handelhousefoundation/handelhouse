@@ -1,10 +1,8 @@
 ####################### Spotlight #########################
-style: "style1 orient-right content-align-right image-position-center onscroll-image-fade-in onload-image-fade-in"
+style: "style1 banner fit orient-right content-align-center image-position-center fullscreen onscroll-image-fade-in onload-image-fade-in"
 id: "donate"
 title : "Donate"
-content: |
-  This is also a <strong>Spotlight</strong> element, and it's here because this demo would look a bit empty with just one spotlight. Like all spotlights, you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
-button: 
+button:
   label: "Donate Here"
   link: "https://www.paypal.com/donate/?hosted_button_id=URZMYGUKVH89Y"
-image: "images/handelhouse-marker.jpeg"
+image: "images/front-elevations-sketch.jpeg"
