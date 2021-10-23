@@ -1,8 +1,0 @@
-####################### Spotlight #########################
-style: "style1 banner fit orient-right content-align-center image-position-center fullscreen onscroll-image-fade-in onload-image-fade-in"
-id: "donate"
-title : "Donate"
-button:
-  label: "Donate Here"
-  link: "https://www.paypal.com/donate/?hosted_button_id=URZMYGUKVH89Y"
-image: "images/front-elevations-sketch.jpeg"
