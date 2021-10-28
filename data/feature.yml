@@ -1,11 +1,25 @@
 ####################### Feature #########################
-style: "style2 feature orient-right content-align-center image-position-left fullscreen onload-image-fade-in"
+style: "style2 feature orient-right content-align-left image-position-left fullscreen onload-image-fade-in"
 id: "donate"
 title : "Donate"
+description:
+  text: For credit card and paylpal
+  style: "center"
+content: |
+  Checks may be sent to: <br><br>
+  <strong>Handel House Foundation of America </strong><br>
+  c/o Casner &amp; Edwards LLP <br>
+  attn: Tara Hamilton <br>
+  303 Congress St. <br>
+  Boston MA 02210 <br><br><br>
+  For wire transfers contact: <br><br>
+  <strong>info@handelhouseamerica.com</strong>
 button:
-  label: "Donate Here"
+  label: "Donate Online"
   link: "https://www.paypal.com/donate/?hosted_button_id=URZMYGUKVH89Y"
+  style: "center"
 image: "images/front-elevations-sketch.jpeg"
 tinylink:
   label: "contact"
   link: "#contact"
+  style: "center"
