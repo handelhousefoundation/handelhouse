@@ -1,5 +1,5 @@
 ####################### Feature #########################
-style: "style2 feature orient-right content-align-left image-position-left fullscreen onload-image-fade-in"
+style: "style2 feature parchment orient-right content-align-left image-position-left fullscreen onload-image-fade-in"
 id: "donate"
 title : "Donate"
 description:
@@ -7,7 +7,7 @@ description:
   style: "center"
 content: |
   Checks may be sent to: <br><br>
-  <strong>Handel House Foundation of America </strong><br>
+  Handel House Foundation of America<br>
   c/o Casner &amp; Edwards LLP <br>
   attn: Tara Hamilton <br>
   303 Congress St. <br>
@@ -23,3 +23,4 @@ tinylink:
   label: "contact"
   link: "#contact"
   style: "center"
+credit: "Peregrine Bryant Architecture & Building Conservation"

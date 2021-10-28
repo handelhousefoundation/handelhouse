@@ -6,11 +6,12 @@ subtitle: |
 content : |
   This is a <strong>Banner</strong> element, and it's generally used as an introduction or opening statement. You can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-banner">details</a>).
 button:
-  label : "Learn More"
+  label : "Learn"
   link : "#learn-more"
   label2: "Donate"
   link2: "#donate"
   label3: "Contact"
   link3: "#contact"
 image : "images/handelhouse-high-res.jpeg"
+credit: "John Buckler, 1839 ©Handel House Trust"
 

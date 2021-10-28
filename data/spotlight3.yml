@@ -8,3 +8,6 @@ button:
   label: "Back to the top"
   link: "#"
 image: "images/handelhouse-marker.jpeg"
+creditlink:
+  link: "https://commons.wikimedia.org/wiki/User:Spudgun67"
+  label: "Handel House Historic Marker Credit"
