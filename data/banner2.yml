@@ -1,0 +1,27 @@
+####################### Banner2 #########################
+# based of the feature page, which is no longer in use
+
+style: "style21 orient-right content-align-left image-position-left onload-image-fade-in onload-content-fade-right"
+id: "donate"
+title : "Donate"
+subtitle: For credit card and paylpal
+content: |
+  Checks may be sent to: <br><br>
+  Handel House Foundation of America<br>
+  c/o Casner &amp; Edwards LLP <br>
+  attn: Tara Hamilton <br>
+  303 Congress St. <br>
+  Boston MA 02210 <br><br><br>
+  For wire transfers contact: <br><br>
+  <strong>info@handelhouseamerica.com</strong>
+button:
+  label: "Donate Online"
+  link: "https://www.paypal.com/donate/?hosted_button_id=URZMYGUKVH89Y"
+  style: "center"
+image: "images/front-elevations-sketch.jpeg"
+alt: "Drawing of George Fredrick Handel in his house by John Buckler, 1839"
+tinylink:
+  label: "contact"
+  link: "#contact"
+  style: "center"
+credit: "Peregrine Bryant Architecture & Building Conservation"
