@@ -3,7 +3,7 @@ style: "style2 feature parchment orient-right content-align-left image-position-
 id: "donate"
 title : "Donate"
 description:
-  text: For credit card and paylpal
+  text: For credit card and paypal
   style: "center"
 content: |
   Checks may be sent to: <br><br>
