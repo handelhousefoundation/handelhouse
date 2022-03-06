@@ -28,6 +28,8 @@ Note: if you forget to run and commit the changes from the hugo command, your st
 
 ## Working with the Submodule
 
+https://github.com/144mdgross/hugo-story
+
 Submodules can be a little strange to work with. They are a git repo within a git repo.
 While working in the code, it is easy to travel between the 2 repos and then realize afterwords you need to reconcile
 that the work actually lives in two spots. 
